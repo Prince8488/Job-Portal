@@ -1,0 +1,26 @@
+.Head
+{
+	width:100%;
+	height:57px;
+	background-color:#3f51b5;
+
+}
+.body
+{
+margin:0px;
+}	
+
+.Middle
+{
+	height:500px;
+	width:90%;
+	background-color:#ddd;
+	margin:100px;
+}	
+
+.Qualification select[type="option"]
+{
+	width:60%;
+	margin:50px;
+}
+	
